@@ -11,7 +11,7 @@ const HomePage = () => {
       <div className="h-[100vh] flex flex-col justify-center items-center gap-8 z-[-40]">
         <div className="mx-auto">
           <Link to="/addItem">
-            <div className="text-9xl text-[#FFCF73] h-[100px] w-[100px] bg-black flex justify-center items-center pb-5 rounded-full ">
+            <div className="text-9xl text-[#FFCF73] h-[100px] w-[100px] bg-black flex justify-center items-center pb-7 rounded-full ">
               <div>+</div>
             </div>
           </Link>

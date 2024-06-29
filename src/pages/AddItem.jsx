@@ -5,9 +5,9 @@ import { FaArrowLeft } from "react-icons/fa";
 
 const AddItem = () => {
   return (
-    <div className="relative">
+    <div className="">
       <Link to="/">
-        <div className="absolute top-5 left-5 text-blue-800 font-extrabold">
+        <div className=" pt-2 pl-2 text-blue-800 font-extrabold">
           {" "}
           <FaArrowLeft className="inline mr-2 mb-1 " />
           Go back

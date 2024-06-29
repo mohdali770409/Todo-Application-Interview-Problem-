@@ -25,7 +25,7 @@ const AddList = () => {
           <div>
             <h1 className="text-lg font-semibold">Task Name</h1>
             <input
-              className="border-2 py-2 px-6 border-[#FFCF73]"
+              className="border-2 py-2 px-6 sm:px-7 md:px-6 border-[#FFCF73]"
               type="text"
               value={taskName}
               onChange={(e) => setTaskName(e.target.value)}
@@ -38,7 +38,7 @@ const AddList = () => {
             <h1 className="text-lg font-semibold">Task Description</h1>
             <textarea
               rows={4}
-              cols={25}
+              cols={26}
               className="border-2 py-2 px-4 border-[#FFCF73]  "
               type="text"
               value={taskDescription}
