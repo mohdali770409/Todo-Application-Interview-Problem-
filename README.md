@@ -5,12 +5,13 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ### clone the repository
 ```
-> git clone [https://github.com/yourusername/ecommerce-website.git](https://github.com/mohdali770409/Todo-Application-Interview-Problem-)
+> git clone https://github.com/mohdali770409/Todo-Application-Interview-Problem-
 > cd todo-app
 ```
 ### Install dependencies:
+```
 > npm install
-
+```
 ### start the development server
 > npm run dev
 
