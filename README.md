@@ -13,8 +13,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 > npm install
 ```
 ### start the development server
+```
 > npm run dev
-
+```
 ## Description
 This is a simple To-Do List application built with React, Redux, and Tailwind CSS. It allows users to add, view, edit, mark as completed, and delete tasks. Each task includes a title and description, providing more context and detail for each item.
 
